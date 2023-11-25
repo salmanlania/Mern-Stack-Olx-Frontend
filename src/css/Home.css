@@ -1,0 +1,11 @@
+
+.cardbox{   
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    margin-top: 1em;
+}
+
+.Home{
+    margin-top: 10px;
+}

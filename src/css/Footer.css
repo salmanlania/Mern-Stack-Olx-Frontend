@@ -1,0 +1,46 @@
+/* App.css */
+
+.footerPart2 {
+    background-color: #f5f5f5;
+    padding: 20px;
+  }
+  
+  .footerStarting {
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .boldHead {
+    list-style: none;
+    font-weight: bold;
+  }
+  
+  .IconsFooter {
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .boldHeadOne {
+    font-weight: bold;
+  }
+  
+  .footerBottom {
+    background-color: #2193B0;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+  }
+  
+  .container-fluid {
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+  
+  .myBottom {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  /* Add additional styles as needed */
+  

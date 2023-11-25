@@ -1,0 +1,1 @@
+export const baseUrl = "https://lania-olx-backend.onrender.com";
